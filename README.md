@@ -1,4 +1,5 @@
 ### Hola soy Israel Sánchez 👋
+![Presentación Inteligencia Artificial Moderno Negro](https://github.com/IKARDI54/IKARDI54/assets/46534703/aff2eae3-269e-4759-93fe-76f6cbfd416d)
 
 <!--
 **IKARDI54/IKARDI54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
