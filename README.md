@@ -3,6 +3,7 @@
 ![Negro (1)](https://github.com/IKARDI54/IKARDI54/assets/46534703/af2f67c0-998f-475a-8413-067cbd919007)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mi_perfil-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fisrael-s%C3%A1nchez-torrero-021585108%2F)](https://www.linkedin.com/in/israel-s%C3%A1nchez-torrero-021585108/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-User-red?link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNPwfDCWCtRn_fdsw_V19Uw)](https://www.youtube.com/channel/UCNPwfDCWCtRn_fdsw_V19Uw)
 
 <!--
 **IKARDI54/IKARDI54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
