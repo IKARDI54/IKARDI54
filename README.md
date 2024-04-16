@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://example.com/rocket_icon.png" alt="Rocket Icon" width="100" height="100">
-</p>
-
 <h1 align="center">Hola, soy Israel Sánchez 👋</h1>
-![Negro (1)](https://github.com/IKARDI54/IKARDI54/assets/46534703/4f9021b2-f8dd-41ca-bd0e-ef217de2f73a)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mi_perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/israel-s%C3%A1nchez-torrero-021585108/)
+
+![Negro (1)](https://github.com/IKARDI54/IKARDI54/assets/46534703/af2f67c0-998f-475a-8413-067cbd919007)
+
 
 <!--
 **IKARDI54/IKARDI54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
